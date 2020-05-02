@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635080219313",
+    "firebase_url": "https://ml-project-b74b8.firebaseio.com",
+    "project_id": "ml-project-b74b8",
+    "storage_bucket": "ml-project-b74b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635080219313:android:8099b1590b87939ae4a090",
+        "android_client_info": {
+          "package_name": "com.example.mlproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635080219313-j1ujnief6p8s38t685rshogf9t5uth28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcpFyNATswusKWM99AD_D0iRv4P78ixVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635080219313-j1ujnief6p8s38t685rshogf9t5uth28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
